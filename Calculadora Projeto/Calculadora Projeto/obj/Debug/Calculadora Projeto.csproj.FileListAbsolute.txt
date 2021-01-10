@@ -1,0 +1,10 @@
+D:\Curso Udemy\Calculadora Projeto\Calculadora Projeto\bin\Debug\Calculadora Projeto.exe.config
+D:\Curso Udemy\Calculadora Projeto\Calculadora Projeto\bin\Debug\Calculadora Projeto.exe
+D:\Curso Udemy\Calculadora Projeto\Calculadora Projeto\bin\Debug\Calculadora Projeto.pdb
+D:\Curso Udemy\Calculadora Projeto\Calculadora Projeto\obj\Debug\Calculadora Projeto.csprojAssemblyReference.cache
+D:\Curso Udemy\Calculadora Projeto\Calculadora Projeto\obj\Debug\Calculadora_Projeto.Form1.resources
+D:\Curso Udemy\Calculadora Projeto\Calculadora Projeto\obj\Debug\Calculadora_Projeto.Properties.Resources.resources
+D:\Curso Udemy\Calculadora Projeto\Calculadora Projeto\obj\Debug\Calculadora Projeto.csproj.GenerateResource.cache
+D:\Curso Udemy\Calculadora Projeto\Calculadora Projeto\obj\Debug\Calculadora Projeto.csproj.CoreCompileInputs.cache
+D:\Curso Udemy\Calculadora Projeto\Calculadora Projeto\obj\Debug\Calculadora Projeto.exe
+D:\Curso Udemy\Calculadora Projeto\Calculadora Projeto\obj\Debug\Calculadora Projeto.pdb
